@@ -1,0 +1,9 @@
+#body{
+    background-image: radial-gradient(red, yellow, green);
+
+}
+
+#header_div{
+    background-color: blue;
+    color: turquoise;
+}
